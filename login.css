@@ -1,0 +1,22 @@
+.container{
+    border:1px solid black;
+    width: 70%;
+    height: 400px;
+    margin: 20px;
+    display: flex;
+    background-color: rgb(61, 43, 59);
+}
+
+.border{
+    border:1px solid black;
+    width: 30%;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(100, 103, 105);
+}
+.img{
+    border:1px solid black;
+    margin: 20px;
+    width:400px;
+    height:355px;
+}
